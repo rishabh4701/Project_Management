@@ -40,12 +40,16 @@ Project_Management/
 ├── .gitattributes   # Git path configuration
 └── README.md        # Documentation
 
+---
+
 🛠️ Tech Stack
 HTML5 – Semantic markup for SEO and accessibility.
 
 CSS3 – Custom properties (variables) and responsive styling.
 
 JavaScript (ES6+) – Event listeners and DOM updates.
+
+---
 
 💻 How to Run Locally
 Follow these steps to get a local copy up and running:
