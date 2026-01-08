@@ -1,99 +1,60 @@
-```markdown
-# Project Management Dashboard
+# 📊 Project Management Dashboard
 
-A simple **Project Management Dashboard** web application built using **HTML, CSS, and JavaScript**.  
-This project demonstrates a clean user interface for managing and visualizing project-related tasks.
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+A sleek, responsive **Project Management Dashboard** built to demonstrate modern frontend workflows. This application provides a centralized interface for tracking project progress and managing daily tasks.
 
 ---
 
 ## 🚀 Project Overview
 
-The Project Management Dashboard is a frontend-based web application that allows users to view and manage project information through a simple and intuitive interface. It is designed as a beginner-friendly project to practice core web development concepts.
+This dashboard is designed as a lightweight solution for project visualization. It focuses on clean UI/UX, responsive grid systems, and efficient DOM manipulation. 
+
+**Key Objectives:**
+* Implement a sidebar-based navigation layout.
+* Practice responsive design using CSS Flexbox and Grid.
+* Handle dynamic UI updates via JavaScript.
 
 ---
 
 ## ✨ Features
 
-- 📋 Clean and structured dashboard UI  
-- 🎨 Responsive design using CSS  
-- ⚙️ Dynamic behavior using JavaScript  
-- 🖼️ Image and style assets included  
+* ✅ **Dynamic Task Overview** – View project status at a glance.
+* 📱 **Fully Responsive** – Optimized for Desktop, Tablet, and Mobile views.
+* ⚡ **Lightweight & Fast** – No heavy frameworks; just pure HTML, CSS, and JS.
+* 🛠️ **Clean Codebase** – Documented and easy to extend for beginners.
 
 ---
 
 ## 📁 Project Structure
 
-```
-
+```text
 Project_Management/
-├─ index.html        # Main HTML file
-├─ style.css         # Stylesheet
-├─ app.js            # JavaScript logic (DOM-based)
-├─ images/           # Image assets
-├─ .gitattributes
-└─ README.md         # Project documentation
+├── index.html       # Entry point (Structure)
+├── style.css        # Visual styling (Layout & Design)
+├── app.js           # Client-side logic (Interactivity)
+├── images/          # UI Icons and brand assets
+├── .gitattributes   # Git path configuration
+└── README.md        # Documentation
 
-````
+🛠️ Tech Stack
+HTML5 – Semantic markup for SEO and accessibility.
 
----
+CSS3 – Custom properties (variables) and responsive styling.
 
-## 🛠️ Tech Stack
+JavaScript (ES6+) – Event listeners and DOM updates.
 
-- **HTML** – Structure of the application  
-- **CSS** – Styling and layout  
-- **JavaScript** – Client-side interactivity  
+💻 How to Run Locally
+Follow these steps to get a local copy up and running:
 
----
+Clone the repository
+git clone [https://github.com/rishabh4701/Project_Management.git](https://github.com/rishabh4701/Project_Management.git)
 
-## 💻 How to Run the Project Locally
+Enter the directory
+cd Project_Management
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/rishabh4701/Project_Management.git
-````
+Launch the app Simply double-click index.html or right-click and select "Open with Browser."
 
-2. **Navigate to the project folder**
-
-   ```bash
-   cd Project_Management
-   ```
-
-3. **Run the project**
-
-   * Open `index.html` directly in your web browser
-   * OR right-click → *Open with browser*
-
-> ⚠️ This is a frontend project. Do **NOT** run `node app.js` since it uses browser DOM APIs like `document`.
-
----
-
-## 📌 Usage
-
-* Open the dashboard in your browser
-* Explore the UI layout and interactions
-* Modify `app.js` or `style.css` to extend functionality
-
----
-
-## 🚀 Future Improvements
-
-* Add task creation and deletion
-* Store data using `localStorage`
-* Integrate backend (Node.js + Express)
-* Add authentication and user roles
-
----
-
-## 📄 License
-
-This project is open-source and available for learning and educational purposes.
-
----
-
-## 👤 Author
-
-**Rishabh Singh**
-GitHub: [https://github.com/rishabh4701](https://github.com/rishabh4701)
-
-```
-```
